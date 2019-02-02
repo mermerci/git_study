@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+auto multiply(auto a, auto b){
+    return a*b;
+}
+
 auto plus(auto a,auto b){
     return a+b;
 }
